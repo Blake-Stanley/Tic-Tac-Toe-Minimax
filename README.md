@@ -7,3 +7,7 @@ After you place an "o," the AI responds with an "x" and the terminal prompts you
 
 
 <img width="619" alt="Screen Shot 2021-09-22 at 9 56 56 AM" src="https://user-images.githubusercontent.com/91094385/134368171-e6f47a5f-20a5-4ed7-9d4a-3a00c597b10a.png">
+
+
+### How to Use:
+Click the green code button on the top right, download as a zip file, and run the program within the terminal or some other virtual environment. 
